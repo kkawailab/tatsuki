@@ -1,4 +1,4 @@
 # tatsuki
 
 # 卒業制作用レポジトリ
-ゲームを作るぞ！
+[こちら](./teguchi_graduate.md)
